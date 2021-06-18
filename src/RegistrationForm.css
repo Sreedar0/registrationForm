@@ -1,0 +1,39 @@
+/* .form {
+    display: flex;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(250, 250, 175);
+    border-radius: 20px;
+    padding: 1em;
+}
+
+.form-heading {
+    display: flex;
+    justify-content: center;
+
+}
+
+.form-feild {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.form-row {
+    flex-direction: row;
+    justify-content: space-around;
+} */
+
+.firstInputSignUpBox {
+    display: flex;
+    width: 10px;
+}
+
+.mobile-number,
+.mobile-label,
+.label-password,
+.label-email {
+    display: flex;
+    flex-direction: row;
+}

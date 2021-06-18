@@ -1,0 +1,7 @@
+.email-disabled :disabled {
+    background-color: darkgrey;
+}
+
+.email-disabled :enabled {
+    background-color: white;
+}

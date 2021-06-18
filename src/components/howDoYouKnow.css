@@ -1,0 +1,11 @@
+.know  :disabled {
+    display: none;
+    background-color: white;
+    color: white;
+}
+
+.know  :enabled {
+    display: contents;
+    color: black;
+    background-color: black;
+}
